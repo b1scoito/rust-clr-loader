@@ -18,7 +18,7 @@ At this point, managed shellcode can be injected into the CLR-loaded process and
 ## Compiling
 
 ```bash
-cargo build --releaseg
+cargo build --release
 ```
 
 ## Credits
